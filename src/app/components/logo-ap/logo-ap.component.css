@@ -1,3 +1,26 @@
+.container{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 #arglogo{
     width: 150px;
 }
+
+#linkedin, #github{
+    width: 50px;
+    margin-left: 15px;
+}
+
+button{
+    margin-left: 15px;
+}
+
+.social{
+    margin-right: 0.7em;
+}
+
+
+/* smarthphone view */
+
